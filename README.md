@@ -1,4 +1,4 @@
-#📊 Time Series & Stock Market Analytics
+# 📊 Time Series & Stock Market Analytics
 ##Project 1: Time Series Forecasting using Python
 ###🚀 Overview:
 *This project focuses on Apple Stock Data and Forecasting using Time Series Analysis. The analysis involves understanding trends, seasonality, and applying various forecasting techniques to predict future values effectively.
