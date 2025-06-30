@@ -15,9 +15,13 @@ Time Series Methods:
 Moving Averages
 
 LSTM
+
 PROPHET
+
 ARIMA / SARIMA
+
 Decomposition
+
 ACF & PACF Analysis
 
 🔍 Key Analysis Performed:
@@ -36,7 +40,10 @@ SARIMA performed better than ARIMA in capturing seasonal effects.
 
 Time-based decomposition helped in understanding cyclical patterns.
 
+
 Project 2: Apple Stock Analysis Dashboard using Power BI
+
+
 🚀 Overview:
 An interactive stock analytics dashboard built in Power BI for Apple Inc. stock, highlighting monthly performance, volume, and key financial metrics.
 
