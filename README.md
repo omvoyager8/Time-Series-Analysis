@@ -70,9 +70,14 @@ Steady upward trend in prices till mid-2025 before mild fluctuations.
 ##### 🤝 Let's Connect:
 ### Developed by Om Gonjari
 
+
 <a href="https://www.linkedin.com/in/omgonjari/">LinkedIn</a>
 
 <a href="https://github.com/omvoyager8/">Github</a>
 
 #Tags:
 #PowerBI #Python #TimeSeriesAnalytics #EDA #StockAnalytics #BusinessIntelligence #DataStorytelling #DataVisualization #OMG
+
+
+
+![heypage3](https://github.com/user-attachments/assets/e44730f5-ff63-41a5-94cd-bcbff2ec0c4b)
